@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "comoclub-mobile-storybook",
-    "slug": "comoclub-mobile-storybook",
+    "name": "expo-storybook-poc",
+    "slug": "expo-storybook-poc",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
